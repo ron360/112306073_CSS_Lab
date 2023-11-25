@@ -1,0 +1,22 @@
+body {
+		color: white;
+		background-color: skyblue; 
+		font-family: arial;
+	}
+h1 {
+		font-family: tahoma
+	}
+ul {
+
+		list-style: none;
+		padding: 0;
+		position: relative;
+	}
+ul li {
+		margin-right: 200px;
+		position: relative;
+		display: inline-block;
+		width: 50px;
+		left: 10px;
+		top: 50px;
+	}
